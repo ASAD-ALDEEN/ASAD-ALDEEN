@@ -170,49 +170,7 @@
 
 ---
 
-## 🧰 My Tech Stack
 
-📱 Mobile Development
-├── Flutter
-└── Dart
-
-🌐 Full-Stack Web Development
-├── HTML
-├── CSS
-├── JavaScript
-├── TypeScript
-└── PHP
-
-💻 Programming
-├── Java
-├── C++
-├── C#
-├── C
-├── Python
-└── JSON
-
-☁️ Backend & Databases
-├── Firebase
-├── Supabase
-├── MySQL
-└── SQLite
-
-🧰 Tools & Development Environment
-├── VS Code
-├── Linux
-├── CMD
-└── PowerShell
-
-🎨 Adobe Creative Tools
-├── Adobe Photoshop
-├── Adobe Lightroom
-└── Adobe Illustrator
-
-🔧 Version Control
-├── Git
-└── GitHub
-
----
 
 ## 💻 What I Build
 
